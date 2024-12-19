@@ -11,4 +11,4 @@
 
 ### Observations
 - Revenir à une version antérieure permet de voir l'état des fichiers et de pouvoir effectuer des modifications.
-- Revenir à la version courante permet de basculer sur la branche principale.
+- Revenir à la version courante permet de basculer sur la nouvelle branche.
