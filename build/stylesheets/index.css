@@ -1,0 +1,117 @@
+@charset "UTF-8";
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #000;
+  /* En-tête */
+  /* Compétences */
+  /* Titre */
+  /* Boutons */
+  /* Compétences */
+  /* Tableau Mes expériences */
+  /* Formulaire de contact */
+  /* Pied de page */
+}
+body .header {
+  padding: 20px 0;
+  /* Video Youtube */
+}
+body .header .navbar {
+  background: #000 !important;
+}
+body .header .navbar-brand {
+  font-size: 1.5em;
+}
+body .header .navbar-nav {
+  margin-left: auto;
+}
+body .header .navbar-nav .nav-link {
+  color: white;
+}
+body .header .bg-light {
+  color: #fff !important;
+  background: #000 !important;
+  padding: 2rem 1rem;
+  height: 100vh;
+}
+body .header .bg-light .btn {
+  background: #000;
+  color: #fff;
+  border: 1px solid #ff3258;
+}
+body .header .bg-light .btn:hover {
+  background-color: #ff3258; /* Changement de couleur au survol */
+}
+body .header .video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+body .work {
+  height: 100vh;
+}
+body .work .card {
+  background: #000;
+  border: 5px solid #fff;
+  color: #fff;
+}
+body .work .card:hover {
+  background: #fff;
+  color: #000;
+}
+body h2 {
+  color: #fff;
+}
+body .btn {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 1em;
+  border: 1px solid #ff3258;
+  border-radius: 5px;
+  background: #000;
+  color: white;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  margin: 5px 0;
+}
+body .btn:hover {
+  background: #ff3258; /* Changement de couleur au survol */
+}
+body #skills {
+  background: #000;
+}
+body #skills .symfony {
+  background: #fff;
+}
+body .table-bordered {
+  border: 1px solid #000;
+}
+body .table-bordered tr .table-bordered td {
+  border: 1px solid #000;
+}
+body .form-control {
+  background: #000;
+  border: 1px solid #ff3258;
+}
+body footer .footer {
+  background: #000 !important;
+  padding: 20px 0;
+}
+body footer .footer ul {
+  padding: 0;
+  list-style: none;
+}
+body footer .footer ul li {
+  display: inline;
+  margin: 0 10px;
+}
+body footer .footer p {
+  margin: 10px 0 0;
+}
+body .bi {
+  color: #ff3258;
+}
+
+/*# sourceMappingURL=index.css.map */
