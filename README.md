@@ -9,3 +9,6 @@
 - `git checkout [commit_hash]` : Revenir à un commit spécifique.
 - `git checkout master` : Revenir à la branche principale.
 
+### Observations
+- Revenir à une version antérieure permet de voir l'état des fichiers et de pouvoir effectuer des modifications.
+- Revenir à la version courante permet de basculer sur la branche principale.
